@@ -1,0 +1,167 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+   
+}
+
+.box{
+
+   height: 100px;
+   width: 125px;
+   margin: 0px;
+
+   text-align: center;
+
+}
+/* .box p{
+    color: inherit;
+    font-size: 1em;
+}
+.box span{
+    color: inherit; */
+/* } */
+.box p{
+    color: inherit;
+    font-size: 1em;
+}
+.box span{
+    color: inherit;
+}
+.zero{
+    border-bottom: 5px  solid grey;
+}
+.zero :hover{
+    background-color: gray;
+}
+.one{
+   border-bottom: 5px solid red;
+}
+.one :hover{
+    background-color: red;
+}
+.two{
+    border-bottom: 5px solid cyan;
+}
+.two :hover{
+    background-color:  cyan;
+}
+.three{
+    border-bottom:5px solid yellow;
+}
+.three :hover{
+    background-color: yellow;
+}
+.for{
+    border-bottom:5px solid blue;
+}
+.for :hover{
+    background-color: blue;
+}
+.fiv{
+  border-bottom:5px solid green;
+}
+.fiv :hover{
+    background-color: green;
+} 
+.six{
+    border-bottom:5px solid orangered;
+}
+.six :hover{
+    background-color: orangered;
+}
+.main{
+padding: 0;
+margin: 0;
+ 
+}
+.cards{
+   
+   display: flex;
+   justify-content: center;
+}
+
+
+.con{
+    height: 60px;
+    width: 500px;
+
+}
+.space{
+    padding-left: 100px;
+}
+/* .left{
+    background-color: blue;
+} */
+.bold{
+  
+    font-size: 25px;
+
+}
+.bar{
+    
+    background-color: black;
+    
+}
+.even{
+    display: flex;
+    height: 500;
+    width: 1500px;
+    justify-content: center;
+}
+.bartwo{
+  
+    color: white;
+}
+.barthree{
+    color: white;
+    margin: 40px;
+}
+.btn{
+    background-color: grey;
+}
+.barfor{
+    display: flex;
+    justify-content: center;
+    padding-left: 180px;
+}
+.barfiv{
+    color: white;
+}
+.barsix{
+    color: white;
+}
+.color{
+    border: 2px solid black;
+    background-color: grey;
+    color: black;
+    height: 50px;
+    width: 100px;
+    padding-left: 40px;
+}
+.colorto{
+    border: 2px solid black;
+    background-color: grey;
+    color: black;
+    height: 50px;
+    width: 100px;
+    padding-left: 40px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.flexone{
+    display: flex;
+    justify-content: center;
+}
+.pen{
+    color: grey;
+}
+
+
+
+
+
